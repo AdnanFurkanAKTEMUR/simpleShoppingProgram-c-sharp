@@ -73,6 +73,7 @@ namespace b191210307_odev3
                 listBox1.Items.Clear();
                 listBox2.Items.Clear();
                 listBox3.Items.Clear();
+                toplamFiyat1 = 0;
             }
 
             if (tvs>=numericUpDown1.Value && bzs>=numericUpDown2.Value && pcs>=numericUpDown3.Value && tls >= numericUpDown4.Value)
